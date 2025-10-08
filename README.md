@@ -1,6 +1,6 @@
 # 🛠️ KernelForge: Sua Base de Código Reutilizável para Ciência de Dados
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/fernandathays95-blip/KernelForge/blob/main/LICENSE.txt)
 
 ## Bem-vindo ao KernelForge!
 
